@@ -1,0 +1,7 @@
+let altura = 179;
+let maltura = 1.79;
+let pesok = 90.5;
+
+console.log (Math.ceil(1.79))
+console.log(Math.floor(90.5));
+console.log(2**(1022 +1));
